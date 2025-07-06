@@ -62,6 +62,8 @@ L'application s’ouvrira automatiquement dans votre navigateur à l’adresse :
 ## 📦 Données utilisées
 
 Les fichiers `movie.csv` et `rating.csv` proviennent du dataset [MovieLens](https://grouplens.org/datasets/movielens/).
+https://www.kaggle.com/datasets/grouplens/movielens-20m-dataset
+https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews
 
 ---
 
